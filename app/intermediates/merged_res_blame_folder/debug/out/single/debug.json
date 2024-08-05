@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_2g.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_2g.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_0s.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_0s.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_6s.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_6s.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_virus_6.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/virus_6.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_attack.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/attack.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_list_s.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_list_s.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_laboratory.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/laboratory.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_multiplier.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/multiplier.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_click.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/click.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gloves.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gloves.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_3s.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_3s.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/anim_popenter_right_to_left.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/anim/popenter_right_to_left.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_virus_5.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/virus_5.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/anim_exit_left_to_right.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/anim/exit_left_to_right.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/layout_fragment_help.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/layout/fragment_help.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/anim_virus_click_2.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/anim/virus_click_2.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/layout_layout_bonus_list_item.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/layout/layout_bonus_list_item.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_5g.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_5g.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_ad_loaded.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/ad_loaded.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_rounded_corner.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/rounded_corner.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/anim_enter_right_to_left.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/anim/enter_right_to_left.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_virus_1.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/virus_1.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_3g.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_3g.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_7s.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_7s.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/anim_virus_longclick_0.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/anim/virus_longclick_0.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_virus_12.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/virus_12.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_virus_7.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/virus_7.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/anim_popenter_left_to_right.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/anim/popenter_left_to_right.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_5s.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_5s.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_storage.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/storage.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_0g.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_0g.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_list_g.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_list_g.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_4s.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_4s.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/anim_virus_click_1.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/anim/virus_click_1.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/anim_exit_right_to_left.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/anim/exit_right_to_left.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_killed.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/killed.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_1g.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_1g.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_virus_4.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/virus_4.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_level.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/level.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/font_audiowide.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/font/audiowide.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_rounded_corner_menu.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/rounded_corner_menu.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_2.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_2.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/layout_fragment_shop.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/layout/fragment_shop.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_ic_baseline_info_24.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_virus_3.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/virus_3.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/navigation_navigation.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/navigation/navigation.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_7g.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_7g.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/layout_fragment_menu.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_4g.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_4g.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_shop.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/shop.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_2s.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_2s.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_3.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_3.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_virus_11.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/virus_11.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_mask.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/mask.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/layout_fragment_game.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/layout/fragment_game.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_virus_2.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/virus_2.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_list.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_list.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_chest.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/chest.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_money.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/money.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/anim_popexit_left_to_right.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/anim/popexit_left_to_right.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_1s.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_1s.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_virus_9.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/virus_9.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_vaccine.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/vaccine.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_xp.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/xp.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_ad_loading.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/ad_loading.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_virus_8.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/virus_8.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/anim_enter_left_to_right.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/anim/enter_left_to_right.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_6g.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_6g.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/font_alegreya_sans.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/font/alegreya_sans.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_coin.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/coin.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/anim_virus_click_0.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/anim/virus_click_0.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/anim_virus_click_3.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/anim/virus_click_3.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/anim_zoom_ad.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/anim/zoom_ad.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_saved.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/saved.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/anim_virus_longclick_1.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/anim/virus_longclick_1.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_virus_10.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/virus_10.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_virus_0.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/virus_0.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/anim_popexit_right_to_left.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/anim/popexit_right_to_left.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_hend_wash.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/hend_wash.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_1.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_1.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_gradient_background_msg.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/gradient_background_msg.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_virus_13.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/virus_13.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/drawable_information.png.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/drawable/information.png"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-merged_res-64:/layout_activity_main.xml.flat",
+        "source": "com.myniprojects.viruskiller.app-main-66:/layout/activity_main.xml"
+    }
+]

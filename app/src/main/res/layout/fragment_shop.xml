@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="shopViewModel"
+            type="com.myniprojects.viruskiller.screens.shop.ShopViewModel" />
+    </data>
+
+    <LinearLayout
+        android:id="@+id/back"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/gradient_list_s"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp">
+
+
+            <TextView
+                android:id="@+id/txtMoney"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentStart="true"
+                android:layout_marginEnd="6dp"
+                android:layout_toStartOf="@+id/butLaboratory"
+                android:fontFamily="@font/audiowide"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@{@string/money_format(shopViewModel.money)}"
+                android:textColor="@android:color/white"
+                app:autoSizeTextType="uniform" />
+
+
+            <Button
+                android:id="@+id/butLaboratory"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:background="#00FFFFFF"
+                android:fontFamily="@font/audiowide"
+                android:lines="1"
+                android:padding="5dp"
+                android:text="@string/back_to_lab"
+                android:textColor="#00B8D4"
+                android:textSize="18sp" />
+
+
+        </RelativeLayout>
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </androidx.recyclerview.widget.RecyclerView>
+
+    </LinearLayout>
+
+
+</layout>

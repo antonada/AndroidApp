@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.myniprojects.viruskiller.app-mergeDebugResources-63:/layout/fragment_game.xml",
+        "source": "com.myniprojects.viruskiller.app-main-66:/layout/fragment_game.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-mergeDebugResources-63:/layout/fragment_shop.xml",
+        "source": "com.myniprojects.viruskiller.app-main-66:/layout/fragment_shop.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-mergeDebugResources-63:/layout/activity_main.xml",
+        "source": "com.myniprojects.viruskiller.app-main-66:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-mergeDebugResources-63:/layout/fragment_help.xml",
+        "source": "com.myniprojects.viruskiller.app-main-66:/layout/fragment_help.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-mergeDebugResources-63:/layout/layout_bonus_list_item.xml",
+        "source": "com.myniprojects.viruskiller.app-main-66:/layout/layout_bonus_list_item.xml"
+    },
+    {
+        "merged": "com.myniprojects.viruskiller.app-mergeDebugResources-63:/layout/fragment_menu.xml",
+        "source": "com.myniprojects.viruskiller.app-main-66:/layout/fragment_menu.xml"
+    }
+]
